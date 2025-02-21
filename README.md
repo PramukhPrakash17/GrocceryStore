@@ -53,18 +53,8 @@ The following are the Docker images used by the application:
 | **Order Service** | `1255555/orderservice`                   |
 | **Payment Service** | `pramukhprakash/payment`               |
  
-## Environment Setup
 
-To run this project, you need to configure the environment variables using the provided `.env` files. Follow the instructions below to download and set them up.
 
-### Step 1: Download the `.env` Files
-The `.env` files required for the project can be found at the following Google Drive link:
-
-[Download .env files from Google Drive](<https://docs.google.com/document/d/18X93x3kJM7F2iyxDjF9U7CRVwD2Hox9O/edit?usp=sharing&ouid=105734300263154750995&rtpof=true&sd=true>)
-
-### Step 2: Place the Files in the Correct Location
-Once downloaded, place the `.env` files in the root directory of the project (or the appropriate subdirectories if specified).
- 
 
 # Roles and responsibilities of team members
 
